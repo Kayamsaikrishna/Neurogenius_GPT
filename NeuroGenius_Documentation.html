@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeuroGenius GPT Documentation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        h1, h2, h3 {
+            color: #4CAF50;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 5px 0;
+        }
+        ul li::before {
+            content: "• ";
+            color: #4CAF50;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+        pre {
+            background: #f4f4f4;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>NeuroGenius GPT Documentation</h1>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>🚀 Overview</h2>
+            <p>NeuroGenius GPT is an AI-powered platform offering secure chat, text-to-image generation, document analysis, and more. It ensures user privacy while delivering cutting-edge AI capabilities in an intuitive and user-friendly interface.</p>
+        </div>
+
+        <div class="section">
+            <h2>✨ Features</h2>
+            <h3>1️⃣ Secure Chat</h3>
+            <ul>
+                <li>🎙 <strong>Speech-to-Text</strong>: Use your microphone to input messages.</li>
+                <li>🔊 <strong>Text-to-Speech</strong>: Listen to AI responses.</li>
+                <li>📝 <strong>Message Editing</strong>: Edit sent messages and regenerate AI responses.</li>
+                <li>📥 <strong>Message Downloading</strong>: Save messages as audio files.</li>
+                <li>📁 <strong>Chat History Management</strong>: Rename, delete, or download chat histories.</li>
+            </ul>
+
+            <h3>2️⃣ Text-to-Image Generation</h3>
+            <ul>
+                <li>📂 <strong>User-Specific History</strong>: Access past image generations.</li>
+                <li>🎨 <strong>Image Editing</strong>: Modify prompts to regenerate images.</li>
+                <li>📥 <strong>Image Downloading</strong>: Save generated images.</li>
+                <li>📌 <strong>Context Menu</strong>: Options to edit, copy, delete, or download images.</li>
+            </ul>
+
+            <h3>3️⃣ Document Analysis</h3>
+            <ul>
+                <li>🔍 <strong>OCR (Optical Character Recognition)</strong>: Extract text from images.</li>
+                <li>📑 <strong>PDF Text Extraction</strong>: Extract text from PDFs.</li>
+                <li>❓ <strong>Query Processing</strong>: Ask AI-driven questions about documents.</li>
+                <li>👀 <strong>Document Preview</strong>: View uploaded documents with zoom functionality.</li>
+                <li>📜 <strong>Query History</strong>: Save and load query histories for each document.</li>
+            </ul>
+
+            <h3>4️⃣ User Management</h3>
+            <ul>
+                <li>👤 <strong>Profile Management</strong>: Update username, email, phone number, and password.</li>
+                <li>📊 <strong>Usage History</strong>: View activity logs and statistics.</li>
+                <li>🔒 <strong>Logout Functionality</strong>: Securely log out of the application.</li>
+            </ul>
+
+            <h3>5️⃣ AI Model Integration</h3>
+            <p>Seamlessly switch between multiple AI models for chat, document analysis, and image generation.</p>
+        </div>
+
+        <div class="section">
+            <h2>🛠 Technical Details</h2>
+            <h3>1️⃣ Tech Stack</h3>
+            <ul>
+                <li><strong>Frontend</strong>: PySide6 (Qt for Python) for the user interface.</li>
+                <li><strong>Backend</strong>: Python for AI integration and business logic.</li>
+                <li><strong>Database</strong>: SQLite for user data, chat histories, and image records.</li>
+                <li><strong>AI Models</strong>: Proprietary NeuroGenius AI models.</li>
+            </ul>
+
+            <h3>2️⃣ Key Libraries</h3>
+            <ul>
+                <li><code>PySide6</code>: GUI development.</li>
+                <li><code>Pillow</code>: Image processing.</li>
+                <li><code>PyPDF2</code>: PDF text extraction.</li>
+                <li><code>pytesseract</code>: OCR functionality.</li>
+                <li><code>SpeechRecognition</code>: Speech-to-text conversion.</li>
+                <li><code>pyttsx3</code>: Text-to-speech conversion.</li>
+            </ul>
+        </div>
+
+
+        <div class="section">
+            <h2>🎯 How to Run the Application</h2>
+            <h3>🛠 Prerequisites</h3>
+            <ul>
+                <li>Install <strong>Python 3.8</strong> or higher.</li>
+                <li>Install dependencies:</li>
+            </ul>
+            <pre>
+pip install -r requirements.txt
+            </pre>
+
+            <h3>▶️ Running the Application</h3>
+            <pre>
+python main.py
+            </pre>
+        </div>
+
+        <div class="section">
+            <h2>📌 Usage Instructions</h2>
+            <h3>🔐 1. Login</h3>
+            <ul>
+                <li>Enter your username and password to log in.</li>
+                <li>New users can register by providing their details.</li>
+            </ul>
+
+            <h3>💬 2. Chat</h3>
+            <ul>
+                <li>Navigate to the <strong>Chats</strong> section.</li>
+                <li>Start a new chat or continue an existing one.</li>
+                <li>Use the microphone button for speech-to-text input.</li>
+            </ul>
+
+            <h3>🖼 3. Image Generation</h3>
+            <ul>
+                <li>Navigate to <strong>Image Generation</strong>.</li>
+                <li>Enter a text prompt and click <strong>Generate Image</strong>.</li>
+                <li>View, edit, or download generated images.</li>
+            </ul>
+
+            <h3>📄 4. Document Analysis</h3>
+            <ul>
+                <li>Navigate to <strong>Documents</strong>.</li>
+                <li>Upload a document and select it.</li>
+                <li>Ask queries and receive AI-generated responses.</li>
+            </ul>
+
+            <h3>⚙️ 5. Profile Management</h3>
+            <ul>
+                <li>Access the <strong>Profile</strong> section.</li>
+                <li>Update your username, email, phone number, or password.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>🚀 Future Enhancements</h2>
+            <ul>
+                <li>🏆 <strong>Subscription Plans</strong>: Add premium subscriptions.</li>
+                <li>☁ <strong>Cloud Integration</strong>: Store user data and generated content in the cloud.</li>
+                <li>🔥 <strong>Advanced AI Models</strong>: Integrate more powerful AI models.</li>
+                <li>📱 <strong>Mobile Support</strong>: Develop a mobile-friendly version.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>🛠 Troubleshooting</h2>
+            <h3>❗ Common Issues</h3>
+            <h4>⚠ Model Load Error:</h4>
+            <ul>
+                <li>Ensure required AI models are downloaded.</li>
+                <li>Check GPU availability for CUDA-based operations.</li>
+            </ul>
+
+            <h4>🔍 Database Errors:</h4>
+            <ul>
+                <li>Verify that the SQLite database files exist and are accessible.</li>
+            </ul>
+
+            <h4>🖼 OCR Issues:</h4>
+            <ul>
+                <li>Ensure Tesseract OCR is installed and configured correctly.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>👥 Contributors</h2>
+            <p><strong>Project Lead</strong>: <a href="mailto:kayamsaikrishna@gmail.com">Kayam Sai Krishna</a></p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2025 NeuroGenius GPT</p>
+    </footer>
+</body>
+</html>

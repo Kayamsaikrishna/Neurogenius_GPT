@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: neurogenius
+Version: 0.1
+Summary: NeuroGenius GPT - AI-powered platform for secure chat and document analysis.
+Home-page: https://github.com/your-repo
+Author: Your Name
+Author-email: your_email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8

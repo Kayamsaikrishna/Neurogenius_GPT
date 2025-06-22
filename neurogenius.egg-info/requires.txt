@@ -1,0 +1,9 @@
+transformers
+torch
+PySide6
+llama-index
+speechrecognition
+pyttsx3
+requests
+numpy
+pillow

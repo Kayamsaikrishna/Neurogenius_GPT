@@ -1,0 +1,449 @@
+[2025-03-25T19:08:06.800946] User d9517a654225b75ed08f635a2fb8c373: Added user message - Chat ID: 18428de4-e634-4724-8dad-9f2d2cfc0351, Content: How much well knowledged are u
+[2025-03-25T19:08:11.708488] User d9517a654225b75ed08f635a2fb8c373: Added assistant message - Chat ID: 18428de4-e634-4724-8dad-9f2d2cfc0351, Content:  I am a model trained by Mistr...
+[2025-03-25T19:08:18.227847] User d9517a654225b75ed08f635a2fb8c373: Retrieved usage statistics - Period: 30 days
+[2025-03-25T19:08:24.789347] User d9517a654225b75ed08f635a2fb8c373: Logged out
+[2025-03-25T22:45:18.196752] User d9517a654225b75ed08f635a2fb8c373: Logged in - Username: Kayam_Sai_Krishna
+[2025-03-25T22:45:18.220338] User d9517a654225b75ed08f635a2fb8c373: Loaded chats - Found 1 chats
+[2025-03-25T22:45:18.889279] User d9517a654225b75ed08f635a2fb8c373: Retrieved messages - Chat ID: 18428de4-e634-4724-8dad-9f2d2cfc0351, Count: 8
+[2025-03-25T22:47:20.407467] User dce12ecb700293e746fb212910daef9b: Logged in - Username: kayamsaikrishna@gmail.com
+[2025-03-25T22:47:20.416395] User dce12ecb700293e746fb212910daef9b: Loaded chats - Found 0 chats
+[2025-03-25T22:47:20.431361] User dce12ecb700293e746fb212910daef9b: Created chat - Chat: Chat 1, Model: mistral:7b
+[2025-03-25T22:47:20.826340] User dce12ecb700293e746fb212910daef9b: Retrieved messages - Chat ID: ac2fcda4-8f77-42c5-9549-a6e195174b4b, Count: 0
+[2025-03-25T22:47:28.707880] User dce12ecb700293e746fb212910daef9b: Retrieved usage statistics - Period: 30 days
+[2025-03-25T22:47:41.441427] User dce12ecb700293e746fb212910daef9b: Logged out
+[2025-03-25T22:47:54.019242] User d9517a654225b75ed08f635a2fb8c373: Logged in - Username: Kayam_Sai_Krishna
+[2025-03-25T22:47:54.031496] User d9517a654225b75ed08f635a2fb8c373: Loaded chats - Found 1 chats
+[2025-03-25T22:47:54.130020] User d9517a654225b75ed08f635a2fb8c373: Retrieved messages - Chat ID: 18428de4-e634-4724-8dad-9f2d2cfc0351, Count: 8
+[2025-03-25T22:53:36.143501] User d9517a654225b75ed08f635a2fb8c373: Logged in - Username: Kayam_Sai_Krishna
+[2025-03-25T22:53:36.163529] User d9517a654225b75ed08f635a2fb8c373: Loaded chats - Found 1 chats
+[2025-03-25T22:53:37.988641] User d9517a654225b75ed08f635a2fb8c373: Retrieved messages - Chat ID: 18428de4-e634-4724-8dad-9f2d2cfc0351, Count: 8
+[2025-03-25T22:56:33.544077] User d9517a654225b75ed08f635a2fb8c373: Logged in - Username: Kayam_Sai_Krishna
+[2025-03-25T22:56:33.552460] User d9517a654225b75ed08f635a2fb8c373: Loaded chats - Found 1 chats
+[2025-03-25T22:56:33.933615] User d9517a654225b75ed08f635a2fb8c373: Retrieved messages - Chat ID: 18428de4-e634-4724-8dad-9f2d2cfc0351, Count: 8
+[2025-03-25T23:09:18.677706] User d9517a654225b75ed08f635a2fb8c373: Logged in - Username: Kayam_Sai_Krishna
+[2025-03-25T23:09:18.686515] User d9517a654225b75ed08f635a2fb8c373: Loaded chats - Found 1 chats
+[2025-03-25T23:09:19.081988] User d9517a654225b75ed08f635a2fb8c373: Retrieved messages - Chat ID: 18428de4-e634-4724-8dad-9f2d2cfc0351, Count: 8
+[2025-03-25T23:11:22.089021] User d9517a654225b75ed08f635a2fb8c373: Added user message - Chat ID: 18428de4-e634-4724-8dad-9f2d2cfc0351, Content: explain maths
+[2025-03-25T23:11:44.249580] User d9517a654225b75ed08f635a2fb8c373: Added assistant message - Chat ID: 18428de4-e634-4724-8dad-9f2d2cfc0351, Content:  Mathematics, often referred t...
+[2025-03-25T23:39:51.739287] User d9517a654225b75ed08f635a2fb8c373: Logged in - Username: Kayam_Sai_Krishna
+[2025-03-25T23:39:51.749776] User d9517a654225b75ed08f635a2fb8c373: Loaded chats - Found 1 chats
+[2025-03-25T23:39:52.219210] User d9517a654225b75ed08f635a2fb8c373: Retrieved messages - Chat ID: 18428de4-e634-4724-8dad-9f2d2cfc0351, Count: 10
+[2025-03-25T23:39:56.009262] User d9517a654225b75ed08f635a2fb8c373: Created chat - Chat: Chat 2, Model: mistral:7b
+[2025-03-25T23:39:56.048985] User d9517a654225b75ed08f635a2fb8c373: Retrieved messages - Chat ID: 665f8a33-c9f4-4049-8245-f356abaddc2e, Count: 0
+[2025-03-25T23:40:09.884206] User d9517a654225b75ed08f635a2fb8c373: Added user message - Chat ID: 665f8a33-c9f4-4049-8245-f356abaddc2e, Content: Explain sodium metal compositi...
+[2025-03-25T23:40:23.149095] User d9517a654225b75ed08f635a2fb8c373: Added assistant message - Chat ID: 665f8a33-c9f4-4049-8245-f356abaddc2e, Content:  Sodium (Na) is a chemical ele...
+[2025-03-25T23:40:28.857245] User d9517a654225b75ed08f635a2fb8c373: Renamed chat - Chat ID: 665f8a33-c9f4-4049-8245-f356abaddc2e, New name: sample
+[2025-03-25T23:44:25.541781] User d9517a654225b75ed08f635a2fb8c373: Logged in - Username: Kayam_Sai_Krishna
+[2025-03-25T23:44:25.550152] User d9517a654225b75ed08f635a2fb8c373: Loaded chats - Found 2 chats
+[2025-03-25T23:44:25.945370] User d9517a654225b75ed08f635a2fb8c373: Retrieved messages - Chat ID: 665f8a33-c9f4-4049-8245-f356abaddc2e, Count: 2
+[2025-03-25T23:44:26.792924] User d9517a654225b75ed08f635a2fb8c373: Retrieved messages - Chat ID: 18428de4-e634-4724-8dad-9f2d2cfc0351, Count: 10
+[2025-03-25T23:45:08.841078] User d9517a654225b75ed08f635a2fb8c373: Added assistant message - Chat ID: 665f8a33-c9f4-4049-8245-f356abaddc2e, Content:  Sodium (Na) is an alkali meta...
+[2025-03-26T10:20:21.960907] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:21:56.793759] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:22:17.113091] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:24:52.219928] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:24:52.231093] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 0 chats
+[2025-03-26T10:26:32.551343] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:26:32.558151] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 0 chats
+[2025-03-26T10:28:47.504252] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:28:47.512359] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 0 chats
+[2025-03-26T10:29:11.410416] User 243bd1ce0387f18005abfc43b001646a: Created chat - Chat: llama2:7b, Model: mistral:7b
+[2025-03-26T10:29:11.977970] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 0
+[2025-03-26T10:34:06.021298] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:34:06.024311] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T10:34:06.190346] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 0
+[2025-03-26T10:38:53.982883] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:38:53.988359] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T10:38:54.160979] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 0
+[2025-03-26T10:44:27.446560] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:44:27.452641] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T10:44:27.598166] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 0
+[2025-03-26T10:44:33.496116] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:44:33.501273] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T10:44:33.522585] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 0
+[2025-03-26T10:48:54.578484] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:48:54.584079] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T10:48:54.734713] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 0
+[2025-03-26T10:50:45.723768] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T10:50:45.729721] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T10:50:45.892073] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 0
+[2025-03-26T10:55:19.471313] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T11:10:08.264547] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T11:10:08.270807] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T11:10:08.443458] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 0
+[2025-03-26T11:11:35.212806] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: chat, Content: hello
+[2025-03-26T11:11:42.517523] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: chat, Content:  Hello! How can I assist you t...
+[2025-03-26T11:14:47.966614] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T11:14:47.972054] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T11:14:48.173383] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 2
+[2025-03-26T11:15:01.915092] User 243bd1ce0387f18005abfc43b001646a: Renamed chat - Chat ID: chat, New name: sample_chat
+[2025-03-26T11:15:36.135540] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: chat, Content: which laptop is best Asus tuff...
+[2025-03-26T11:15:44.086989] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: chat, Content:  Both the Asus TUF F15 and Del...
+[2025-03-26T15:16:57.559385] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T15:16:57.575297] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T15:16:58.181196] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-26T15:21:59.108029] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T15:21:59.117663] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T15:21:59.463953] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-26T15:22:03.805547] User 243bd1ce0387f18005abfc43b001646a: Retrieved usage statistics - Period: 30 days
+[2025-03-26T15:28:26.907736] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T15:28:26.913415] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T15:28:27.332523] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-26T15:28:39.302242] User 243bd1ce0387f18005abfc43b001646a: Retrieved usage statistics - Period: 30 days
+[2025-03-26T15:31:25.944358] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T15:31:25.950312] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T15:31:26.341461] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-26T15:45:10.268119] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T15:45:10.278157] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T15:45:10.769192] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-26T17:17:30.738701] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T17:17:30.758300] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T17:17:31.365387] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-26T20:05:20.679162] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T20:05:20.695283] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T20:05:21.692442] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-26T20:05:30.864602] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T20:05:30.874193] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T20:05:30.971011] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-26T20:05:47.338915] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-26T20:05:47.349969] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-26T20:05:47.463750] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-27T22:26:56.248054] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-27T22:26:56.260018] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-27T22:26:56.856660] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-27T22:28:12.962825] User 243bd1ce0387f18005abfc43b001646a: Retrieved usage statistics - Period: 30 days
+[2025-03-27T22:35:51.610849] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-27T22:35:51.618996] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-27T22:35:52.158577] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-27T22:35:56.068052] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-27T22:35:56.075832] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-27T22:35:56.133298] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-27T22:43:47.283923] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-27T22:43:47.292339] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-27T22:43:47.790544] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-27T22:47:47.958916] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-27T22:47:47.975132] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-27T22:47:48.508969] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-27T22:50:28.379757] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-27T22:50:28.396163] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-27T22:50:28.879406] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-27T22:54:21.877579] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-27T22:54:21.888319] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-27T22:54:22.367268] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-27T23:03:43.925257] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-27T23:03:43.930316] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-27T23:03:44.475872] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-27T23:12:05.333629] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-27T23:12:05.341082] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-27T23:12:05.833737] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-28T09:40:38.195324] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T09:40:38.211866] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T09:40:38.576271] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-28T09:58:02.499373] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T09:58:02.516871] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T09:58:02.867369] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-28T10:02:27.124045] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T10:02:27.131753] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T10:02:27.359961] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 4
+[2025-03-28T10:07:56.879007] User 243bd1ce0387f18005abfc43b001646a: Renamed chat - Chat ID: chat, New name: sample_chat
+[2025-03-28T10:08:03.037455] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: chat, Content: hello
+[2025-03-28T10:08:35.094671] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: chat, Content: Connection error: HTTPConnecti...
+[2025-03-28T10:39:58.615192] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T10:39:58.621744] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T10:39:58.923438] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 6
+[2025-03-28T10:40:48.450686] User 243bd1ce0387f18005abfc43b001646a: Renamed chat - Chat ID: chat, New name: chat
+[2025-03-28T10:41:05.010464] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: chat, Content: hello
+[2025-03-28T10:41:09.096845] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: chat, Content: Connection error: HTTPConnecti...
+[2025-03-28T10:54:07.417156] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T10:54:07.420531] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T10:54:07.623819] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: chat, Count: 8
+[2025-03-28T10:54:19.947181] User 243bd1ce0387f18005abfc43b001646a: Deleted chat - Chat: chat (ID: chat)
+[2025-03-28T11:02:26.399738] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T11:02:26.406043] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 0 chats
+[2025-03-28T11:03:00.047435] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T11:03:00.052634] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 0 chats
+[2025-03-28T11:06:54.546752] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T11:06:54.550895] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 0 chats
+[2025-03-28T11:06:54.555299] User 243bd1ce0387f18005abfc43b001646a: Created chat - Chat: Chat 1, Model: mistral:7b
+[2025-03-28T11:06:54.747665] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 0
+[2025-03-28T11:07:11.790408] User 243bd1ce0387f18005abfc43b001646a: Created chat - Chat: Chat 2, Model: mistral:7b
+[2025-03-28T11:07:11.880533] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: ca7a8a78-3f9b-4795-bdb2-ac50a031e0d7, Count: 0
+[2025-03-28T11:07:14.202786] User 243bd1ce0387f18005abfc43b001646a: Deleted chat - Chat: Chat 2 (ID: ca7a8a78-3f9b-4795-bdb2-ac50a031e0d7)
+[2025-03-28T11:07:21.901923] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: hello
+[2025-03-28T11:07:53.962754] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: Connection error: HTTPConnecti...
+[2025-03-28T11:23:44.201213] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T11:23:44.206755] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T11:23:44.463921] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 2
+[2025-03-28T11:23:49.637630] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: hi
+[2025-03-28T11:23:55.476971] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content:  Hello! How can I assist you t...
+[2025-03-28T11:24:19.720197] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: how are you doing
+[2025-03-28T11:24:23.066687] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content:  I'm just a computer program, ...
+[2025-03-28T11:25:26.214762] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: hello explain me pythagorous t...
+[2025-03-28T11:25:41.140546] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: 
+Certainly! The Pythagorean th...
+[2025-03-28T11:25:54.969293] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: which are the top vision model...
+[2025-03-28T11:26:14.534950] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: <think>
+
+</think>
+
+As of recen...
+[2025-03-28T11:26:31.622590] User 243bd1ce0387f18005abfc43b001646a: Exported chat - Chat: Chat 1, Format: txt, Path: user_documents\243bd1ce0387f18005abfc43b001646a\exports\Chat_1_20250328_112631.txt
+[2025-03-28T11:59:34.223187] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T11:59:34.227724] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T12:03:06.748705] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T12:03:06.763234] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T12:03:06.987641] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 10
+[2025-03-28T12:17:08.028853] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T12:17:08.037130] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T12:17:08.305346] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 10
+[2025-03-28T12:37:04.787253] User 243bd1ce0387f18005abfc43b001646a: Retrieved usage statistics - Period: 30 days
+[2025-03-28T12:51:01.733905] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T12:51:01.743445] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T12:51:02.069094] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 10
+[2025-03-28T12:52:46.757469] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T12:52:46.766273] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T12:52:47.030029] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 10
+[2025-03-28T13:03:21.737766] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T13:03:21.749968] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T13:03:22.028163] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 10
+[2025-03-28T13:04:05.176732] User 243bd1ce0387f18005abfc43b001646a: Logged out
+[2025-03-28T13:04:07.366354] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T13:04:07.374285] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T13:04:07.446318] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 10
+[2025-03-28T13:04:17.154377] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: how is ur day
+[2025-03-28T13:04:26.942771] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content:  I don't have feelings, but if...
+[2025-03-28T13:04:57.239895] User 243bd1ce0387f18005abfc43b001646a: Retrieved usage statistics - Period: 30 days
+[2025-03-28T13:05:30.497288] User 243bd1ce0387f18005abfc43b001646a: Logged out
+[2025-03-28T13:11:52.587990] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T13:11:52.604468] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T13:11:52.845597] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-28T13:13:18.063046] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T13:13:18.067597] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T13:13:18.314449] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-28T13:18:35.854789] User 243bd1ce0387f18005abfc43b001646a: Logged out
+[2025-03-28T13:18:37.892036] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-28T13:18:37.900785] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-28T13:18:37.998075] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T12:20:49.005532] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T12:20:49.011624] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T12:20:49.507684] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T12:39:11.039811] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T12:39:11.045711] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T12:39:11.262244] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T12:48:41.186944] User 243bd1ce0387f18005abfc43b001646a: Retrieved usage statistics - Period: 30 days
+[2025-03-29T13:11:22.339392] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T13:11:22.344409] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T13:11:22.608419] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T13:15:12.769553] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T13:15:12.775012] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T13:15:13.037854] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T15:33:35.788610] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T15:33:35.795977] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T15:33:36.079571] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T15:39:43.010342] User 243bd1ce0387f18005abfc43b001646a: Logged out
+[2025-03-29T15:40:23.947890] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T15:40:23.956167] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T15:40:23.983271] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T15:40:52.055760] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T15:40:52.061692] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T15:40:52.217376] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T18:53:51.803846] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T18:53:51.811989] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T18:53:52.114272] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T18:59:36.341075] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T18:59:36.348533] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T18:59:36.546459] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T22:35:57.555612] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T22:35:57.574843] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T22:35:57.975992] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T22:52:53.459069] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T22:52:53.465969] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T22:52:53.699571] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-29T23:06:27.873144] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-29T23:06:27.880230] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-29T23:06:28.111605] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T09:30:59.695200] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T09:30:59.711033] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T09:31:00.168516] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T09:45:37.361452] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T09:45:37.377456] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T09:45:38.137614] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T09:59:32.641137] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T09:59:32.649625] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T09:59:32.845676] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T10:03:22.003428] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T10:03:22.008209] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T10:03:22.189323] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T10:12:05.033083] User 243bd1ce0387f18005abfc43b001646a: Logged out
+[2025-03-30T10:15:30.950000] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T10:15:30.953870] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T10:15:31.147463] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T10:22:53.614308] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T10:22:53.614308] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T10:22:53.816150] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T10:24:56.142776] User 243bd1ce0387f18005abfc43b001646a: Retrieved usage statistics - Period: 30 days
+[2025-03-30T10:25:03.975176] User 243bd1ce0387f18005abfc43b001646a: Retrieved usage statistics - Period: 30 days
+[2025-03-30T10:25:12.173418] User 243bd1ce0387f18005abfc43b001646a: Logged out
+[2025-03-30T10:25:48.816178] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T10:25:48.822873] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T10:25:49.021917] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T10:40:25.467732] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T10:40:25.467732] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T10:40:25.736023] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T10:52:48.437227] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T10:52:48.442571] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T10:52:48.625911] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T10:56:29.560268] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T10:56:29.572042] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T10:56:31.586930] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T11:36:44.256083] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T11:36:44.263591] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T11:36:44.570005] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T11:48:07.042048] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T11:48:07.045264] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T11:48:07.342535] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T12:02:44.506198] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T12:02:44.511378] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T12:02:44.795261] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T12:34:22.238252] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T12:34:22.244004] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T12:34:22.532621] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T12:38:45.333659] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T12:38:45.349418] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T12:38:45.699478] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-30T18:44:21.343747] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-30T18:44:21.343747] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-30T18:44:21.819872] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T10:49:09.520276] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T10:49:09.531349] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-31T10:49:10.117549] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T11:00:39.235172] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T11:00:39.261845] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-31T11:00:40.057511] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T11:07:33.376425] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T11:07:33.385060] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-31T11:07:33.665022] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T11:09:16.576847] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T11:09:16.576847] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-31T11:09:16.969324] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T11:22:17.794408] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T11:22:17.805738] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-31T11:22:18.524990] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T11:26:12.959971] User 243bd1ce0387f18005abfc43b001646a: Logged out
+[2025-03-31T11:26:14.274273] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T11:26:14.284167] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-31T11:26:14.408443] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T11:33:04.099470] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T11:33:04.117472] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-31T11:33:04.580005] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T11:57:30.440350] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T11:57:30.456117] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-31T11:57:30.914851] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T12:16:48.035462] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T12:16:48.040107] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-31T12:16:48.222630] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T16:20:31.514865] User 513a17144ffaa98a2f36446f3b1d4ad8: Logged in - Username: infernomach
+[2025-03-31T16:20:31.520491] User 513a17144ffaa98a2f36446f3b1d4ad8: Loaded chats - Found 0 chats
+[2025-03-31T16:20:31.537680] User 513a17144ffaa98a2f36446f3b1d4ad8: Created chat - Chat: Chat 1, Model: mistral:7b
+[2025-03-31T16:20:32.044376] User 513a17144ffaa98a2f36446f3b1d4ad8: Retrieved messages - Chat ID: 7221f137-e669-4e2e-b444-2a668310e41d, Count: 0
+[2025-03-31T18:23:06.682456] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T18:23:06.690614] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-31T18:23:07.175216] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T18:26:01.955832] User 243bd1ce0387f18005abfc43b001646a: Created chat - Chat: Chat 2, Model: mistral:7b
+[2025-03-31T18:26:02.074625] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Count: 0
+[2025-03-31T18:31:32.839018] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Content: give me details of raichur the...
+[2025-03-31T18:32:04.971438] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Content: Connection error: HTTPConnecti...
+[2025-03-31T18:34:27.040024] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T18:34:27.051821] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 2 chats
+[2025-03-31T18:34:27.516563] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Count: 2
+[2025-03-31T18:34:28.545228] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 12
+[2025-03-31T18:34:34.897404] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: hi
+[2025-03-31T18:35:06.178193] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content:  Hello! How can I assist you t...
+[2025-03-31T18:35:16.928684] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Content: give me details of raichur the...
+[2025-03-31T18:35:49.008833] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Content: Connection error: HTTPConnecti...
+[2025-03-31T18:38:24.095300] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T18:38:24.110177] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 2 chats
+[2025-03-31T18:38:24.585248] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Count: 4
+[2025-03-31T18:38:25.611362] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 14
+[2025-03-31T18:38:29.746755] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Content: give me details of raichur the...
+[2025-03-31T18:39:01.874172] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Content: Connection error: HTTPConnecti...
+[2025-03-31T18:40:15.623640] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T18:40:15.635261] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 2 chats
+[2025-03-31T18:40:16.127104] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Count: 6
+[2025-03-31T18:40:17.198057] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 14
+[2025-03-31T18:40:20.906671] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Content: give me details of raichur the...
+[2025-03-31T18:40:53.008707] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Content: Connection error: HTTPConnecti...
+[2025-03-31T18:42:57.355077] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Content: explain python
+[2025-03-31T18:43:29.529638] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7, Content: Connection error: HTTPConnecti...
+[2025-03-31T18:43:37.825333] User 243bd1ce0387f18005abfc43b001646a: Deleted chat - Chat: Chat 2 (ID: c42a488e-5d50-4283-a31a-ce7ce164d5c7)
+[2025-03-31T18:43:43.185561] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: give me details of raichur the...
+[2025-03-31T18:44:15.291022] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content: Connection error: HTTPConnecti...
+[2025-03-31T18:46:25.339192] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T18:46:25.349111] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-03-31T18:46:25.979800] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 16
+[2025-03-31T18:46:30.732961] User 243bd1ce0387f18005abfc43b001646a: Created chat - Chat: Chat 2, Model: mistral:7b
+[2025-03-31T18:46:30.774881] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Count: 0
+[2025-03-31T18:46:38.384802] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Content: explain me python
+[2025-03-31T18:47:10.479362] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Content: Connection error: HTTPConnecti...
+[2025-03-31T20:45:02.630769] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-03-31T20:45:02.630769] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 2 chats
+[2025-03-31T20:45:03.374457] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Count: 2
+[2025-03-31T20:45:04.394130] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 16
+[2025-03-31T20:45:24.417238] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Content: explain me python
+[2025-03-31T20:45:48.091680] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Content:  Python is a high-level, inter...
+[2025-03-31T20:45:53.112414] User 243bd1ce0387f18005abfc43b001646a: Added user message - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Content: give me details of raichur the...
+[2025-03-31T20:46:10.675217] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Content:  Raichur Thermal Power Station...
+[2025-04-01T08:33:47.723488] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-04-01T08:33:47.723488] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 2 chats
+[2025-04-01T08:33:48.990683] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Count: 6
+[2025-04-01T08:33:49.984374] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 16
+[2025-04-01T08:43:07.208882] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-04-01T08:43:07.208882] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 2 chats
+[2025-04-01T08:43:07.728200] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Count: 6
+[2025-04-01T08:43:08.724754] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 16
+[2025-04-01T08:55:30.464685] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-04-01T08:55:30.474822] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 2 chats
+[2025-04-01T08:55:31.037358] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Count: 6
+[2025-04-01T08:55:32.000568] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 16
+[2025-04-01T08:57:19.614358] User 243bd1ce0387f18005abfc43b001646a: Created chat - Chat: Chat 3, Model: mistral:7b
+[2025-04-01T08:57:19.761870] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 34e44a62-5455-4aa4-b4e7-10e7755f57ce, Count: 0
+[2025-04-01T09:19:57.608386] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-04-01T09:19:57.628442] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 3 chats
+[2025-04-01T09:19:58.260849] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 34e44a62-5455-4aa4-b4e7-10e7755f57ce, Count: 0
+[2025-04-01T09:19:59.288133] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: e560a9e2-b0d9-45a7-b95f-dba535619630, Count: 6
+[2025-04-01T09:19:59.321309] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 16
+[2025-04-01T09:22:08.307278] User 243bd1ce0387f18005abfc43b001646a: Deleted chat - Chat: Chat 3 (ID: 34e44a62-5455-4aa4-b4e7-10e7755f57ce)
+[2025-04-01T09:22:11.019684] User 243bd1ce0387f18005abfc43b001646a: Deleted chat - Chat: Chat 2 (ID: e560a9e2-b0d9-45a7-b95f-dba535619630)
+[2025-04-01T09:34:59.570020] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-04-01T09:34:59.570020] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-04-01T09:34:59.814354] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 16
+[2025-04-01T10:23:13.401503] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-04-01T10:23:13.401503] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-04-01T10:23:13.670153] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 16
+[2025-04-01T10:23:44.599358] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content:  Bernoulli's Principle, also k...
+[2025-04-07T12:30:48.344289] User e7476ca55559e029965da4e8f1018e45: Logged in - Username: kavya
+[2025-04-07T12:30:48.346295] User e7476ca55559e029965da4e8f1018e45: Loaded chats - Found 0 chats
+[2025-04-07T12:30:48.357646] User e7476ca55559e029965da4e8f1018e45: Created chat - Chat: Chat 1, Model: mistral:7b
+[2025-04-07T12:30:48.859411] User e7476ca55559e029965da4e8f1018e45: Retrieved messages - Chat ID: d56e26ae-0dab-4048-be4d-ff5eaff75709, Count: 0
+[2025-04-07T12:32:49.127347] User e7476ca55559e029965da4e8f1018e45: Added assistant message - Chat ID: d56e26ae-0dab-4048-be4d-ff5eaff75709, Content:  Hello! How can I assist you t...
+[2025-04-07T12:33:42.746853] User e7476ca55559e029965da4e8f1018e45: Added assistant message - Chat ID: d56e26ae-0dab-4048-be4d-ff5eaff75709, Content: 1. Mental Health Bot: A chatbo...
+[2025-04-07T12:58:02.876923] User e7476ca55559e029965da4e8f1018e45: Retrieved usage statistics - Period: 30 days
+[2025-04-07T12:58:16.484957] User e7476ca55559e029965da4e8f1018e45: Logged out
+[2025-04-13T19:40:18.831169] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-04-13T19:40:18.831169] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-04-13T19:40:20.070084] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 17
+[2025-04-13T19:46:07.654902] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-04-13T19:46:07.666612] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-04-13T19:46:08.070650] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 17
+[2025-05-02T10:24:29.289489] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-05-02T10:24:29.289489] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-05-02T10:24:30.239764] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 17
+[2025-05-04T20:14:04.868239] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-05-04T20:14:04.881505] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-05-04T20:14:05.439670] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 17
+[2025-05-04T20:15:17.597688] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content:  I don't have the ability to r...
+[2025-05-04T20:15:32.408438] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content:  Based on the interaction and ...
+[2025-05-04T20:16:12.371978] User 243bd1ce0387f18005abfc43b001646a: Added assistant message - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Content:  Planes fly by using four fund...
+[2025-05-17T13:49:53.424907] User 243bd1ce0387f18005abfc43b001646a: Logged in - Username: krishna
+[2025-05-17T13:49:53.439364] User 243bd1ce0387f18005abfc43b001646a: Loaded chats - Found 1 chats
+[2025-05-17T13:49:53.914406] User 243bd1ce0387f18005abfc43b001646a: Retrieved messages - Chat ID: 294e0b00-e982-4843-8e9f-31e9b74e933f, Count: 20

@@ -1,0 +1,418 @@
+so hi everyone today we will be walking
+
+through a very interesting demonstration
+
+on how you can convert streamlet
+
+application or any other application in
+
+your system into aexe file that is an
+
+executable file which can act like a
+
+software so basically this can be very
+
+helpful when you wish to share your
+
+codes we should share your
+
+demonstrations your PS to non Tech guys
+
+who don't have python installed in your
+
+system other libraries don't are not
+
+installed in their system and is good
+
+for res sharing purposes so today in
+
+this particular demonstration we will
+
+learn how this can be done so first of
+
+all you should be creating a virtual
+
+environment in your desktop basically
+
+just navigate to the point where you
+
+wish to create this virtual environment
+
+and then first of all install virtual n
+
+so this is a package that will help you
+
+very straightforwardly to create a
+
+virtual environment now I already have a
+
+virtual environment in my system as well
+
+as I have this Library also so I'm not
+
+installing this how to create a virtual
+
+environment using virtual
+
+n this is the command very simple just
+
+call virtual n and name of your virtual
+
+environment so in this case I'm naming
+
+it as demo I won't be creating it right
+
+now because it will take some time
+
+rather I will use one of my existing
+
+virtual environments that I've already
+
+created for this demonstration that is
+
+test so how to activate a virtual
+
+environment which has been created using
+
+virtual n Library you just need to use
+
+this particular command dots forwards uh
+
+backwards slash name of the virtual
+
+environment that you have given for me
+
+this is it is test then backward SL
+
+scripts backward SL
+
+activate and then just do an enter now
+
+here you can see that test has been
+
+activated as you can see now there are
+
+couple of things that you need to
+
+consider first of all in this virtual
+
+environment you need to P install CX
+
+freeze we install CX
+
+freeze and streamlit that application
+
+and other libraries also that you are
+
+using so in the demonstration that I
+
+will be building it would be a very very
+
+basic streamer application that is the
+
+hello world but if you are having
+
+complicated application I would rather
+
+suggest you to install all the required
+
+libraries now once you have installed
+
+everything just do a pip freeze to check
+
+out whether all the requirements are
+
+available or not especially CX freeze
+
+and
+
+streamlit now for streamlit a very
+
+interesting case is that you need to use
+
+a very specific version to run this
+
+particular demo that is streamlit
+
+13.0 here you can see that stream L is
+
+present do remember to use this version
+
+else you would be facing a lot of issues
+
+as I fa a number of issues now here is
+
+CSP as you can see so these are the two
+
+major Library libraries that I would be
+
+using in my codes now what I will be
+
+doing I will be showing you my streamlit
+
+code and eventually a run file that I
+
+have created for it that will get that
+
+will initiate the streamlet application
+
+from
+
+python so here you can see that I have
+
+created two applications in the folder
+
+demo to for now I will just open wanted
+
+to show you the
+
+content this is a little tricky process
+
+on creating a because at times you would
+
+be able to create the AE but the XE
+
+would fail on launching because it took
+
+me nearly a week to complete this demo
+
+because there are version issues the
+
+demonstrations the tutorials present on
+
+the internet were not right so I think I
+
+need to figure out lot lot of things but
+
+now it is working for me so here you can
+
+see that the streamlet code very
+
+Baseline this title and WR uh any other
+
+labrary that you would be using I would
+
+suggest you to install it in the virtual
+
+environment now this is the basic
+
+application where our main file exist
+
+that is a app.py now you need to create
+
+one more file that is setup.py and here
+
+you can see that this content is very
+
+important the most important segment in
+
+this file is this particular section
+
+where you can see that I'm launching the
+
+streamlit app streamlit run app.py using
+
+this setup file this is very very
+
+important this content and also do
+
+remember that in this particular file
+
+import all the libraries that you are
+
+using app.py for a better wrapping off
+
+of discrepancies so I uh I just was
+
+facing many issues when I was using
+
+different libraries in app.py but were
+
+not mentioning them in setup.py then
+
+that was creating some issues in
+
+launching the application so I would
+
+suggest if you're using some Library say
+
+pyit learn or pandas do mention it in
+
+setup.py as well so that will help you
+
+to uh create your EXE more comfortably
+
+else you will be facing many issues now
+
+this is the copy paste code that you
+
+need to do just copy paste everything as
+
+it is and name change the name of the
+
+file that you have used so here it is
+
+app.py as you know now once you have
+
+created these two files what you need to
+
+do you need to do nothing just move to
+
+that particular folder CD demo
+
+2 and call CX
+
+freeze hyphen
+
+script and setup. so setup.py is the
+
+file which is launching the main stream
+
+L tab do remember that and do an
+
+enter now this will create some this
+
+will take some time as you can see that
+
+uh the execution has started it is now
+
+starting off with building your exe file
+
+this will take some time by the time
+
+I've already created the demon uh in
+
+other file so we will check
+
+that now here you can see that once the
+
+execution is successful
+
+uh in the logs you would be able to
+
+check here this will take some minutes
+
+our new folder called as build will
+
+appear now in this build you need to
+
+again navigate to Windows and then
+
+you'll see a number of files here where
+
+one of the files is setup.exe which is
+
+our actual exe file that we are looking
+
+for now before launching this do
+
+remember that you need to copy both the
+
+files the app and the setup.py
+
+in the same folder as the exe as else
+
+you will face some issues so hence here
+
+you can see that I've already copy
+
+pasted app.py and setup.py also any
+
+other file that you're using like for
+
+example you might be reading some CSV so
+
+do copy that in this folder and then
+
+just launch setup.exe
+
+this will again open up a terminal
+
+window for you where you will be able to
+
+see that it is launching the streamlit
+
+app on a local host
+
+URL if everything goes right
+
+now here you can see that the streamlet
+
+app has been
+
+launched on local 8501 using aexe file
+
+it is loading and then it will show you
+
+the basic message that we are printing
+
+in a app.py
+
+file yeah here you can see that the app
+
+is executing here you can if you
+
+entering something the logs would be
+
+available here in the setup.exe so this
+
+is how you can create an exe file for
+
+your streamlet app for sharing purposes
+
+couple of things to remember one is to
+
+create a virtual environment second the
+
+version of streamlet is very important
+
+that is
+
+1.13.0 for to follow this particular
+
+tutorial and third is to copy paste the
+
+files that you are using into the exe
+
+file folder the same folder the build
+
+folder that you have seen and this is
+
+how eventually the application would be
+
+created very easy to use also and looks
+
+very fine the catch is the size of this
+
+folder would be huge like about 200 250
+
+MBS and depends upon depending upon the
+
+libraries that you're using the file
+
+would the folder would become even
+
+bigger so do remember that it is just
+
+for sharing your PS don't try to make
+
+build setups as the method is not
+
+optimized because it will be wrapping up
+
+all the libraries so thank you so much
+
+now here you can see see that the
+
+command that we started off is now
+
+showing some logs it is started creating
+
+the exe file for us so logs would look
+
+something like this and the output would
+
+look something like the exe file that
+
+you saw just now thank you
+
