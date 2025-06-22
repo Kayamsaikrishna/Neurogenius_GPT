@@ -1,22 +1,3 @@
-[
-    {
-        "query": "modify my resume and make it better",
-        "response": "Connection error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)"
-    },
-    {
-        "query": "modify my resume and make it better",
-        "response": "Connection error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)"
-    },
-    {
-        "query": "modify my resume and make it better",
-        "response": "Connection error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)"
-    },
-    {
-        "query": "modify my resume and make it better",
-        "response": "Connection error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)"
-    },
-    {
-        "query": "modify my resume and make it better",
-        "response": "I'd be happy to help you modify your resume!\n\nHere's a rewritten version with some improvements:\n\n**Kayam Sai Krishna**\n**Contact Information:**\n\n* Email: [kayamsaikrishna@gmail.com](mailto:kayamsaikrishna@gmail.com)\n* Phone: +91 08088993690\n* LinkedIn: (link to your profile)\n\n**Summary:**\nHighly motivated and passionate Computer Science student with a focus on Artificial Intelligence and Machine Learning. Proven ability to develop practical skills through projects and classes, with a strong desire to continue learning and contributing to the field.\n\n**Education:**\n\n* **B.Tech in Computer Science and Engineering**, CMR University, Bengaluru\n\t+ Specialization: Artificial Intelligence and Machine Learning (9.32 CGPA, 5th semester)\n\t+ Anticipated Graduation Date: Nov 2022\n\n**Academic Background:**\n\n* **Vidya Soudha PU College, Bengaluru**\n\t+ Physics, Chemistry, Mathematics, and Electronics (Nov 2022 \u2013 Present)\n* **Poornaprajna Education Centre, Bengaluru**\n\t+ 10th Standard (Mar 2020)\n\n**Skills:**\n\n* Time Management\n* Leadership\n* Communication Skills\n* Teamwork\n* Adaptability\n* Project Management\n\n**Technical Skills:**\n\n* Programming languages: Python, C/C++\n* Familiarity with Large Language Models (LLMs) through NPTEL course (Introduction to LLMs)\n\n**Projects:**\n\n1. **NexaBot**: Developed an IoT-based Humanoid Robot that interacts with its surroundings using sensors.\n2. **NeuroGenius**: Built a custom AI assistant using GPT technology for personalized responses and insights.\n3. **CAFEDIONA**: Created a tool that converts written instructions into CAD models, enhancing design automation.\n4. **Plant Disease Detection**: Designed a machine learning system to detect plant diseases using image analysis.\n5. **Sentimental Analysis**: Developed a tool to read and understand emotions in text for customer review analysis.\n\n**Relevant Coursework:**\n\n* Introduction to Large Language Models (LLMs) through NPTEL course (Feb 2025 \u2013 Present)\n\nI made the following changes:\n\n1. Simplified the formatting and layout for easier reading.\n2. Emphasized your academic achievements, including your CGPA and specialization.\n3. Highlighted your technical skills and relevant coursework.\n4. Organized your projects into a clear and concise list, with brief descriptions.\n5. Removed some redundant phrases and words to make your resume more concise.\n\nFeel free to ask me if you'd like any further modifications or have specific requests!"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8725179488b71b71d5f411d7e2b99085ff34a6a92d09c31375c0aa55cde2fcea
+size 3404

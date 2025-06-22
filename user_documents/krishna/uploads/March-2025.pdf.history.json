@@ -1,14 +1,3 @@
-[
-    {
-        "query": "What's the monthly average of RTPS",
-        "response": "The monthly averages for RTPS are not explicitly listed in the provided data, but we can calculate them by dividing the total for each month by the number of months.\n\nHowever, the actual values for the monthly totals are also not provided. But we can look at the \"Mon.Avg:\" column which provides a monthly average value.\n\nThe \"Mon.Avg:\" column shows:\n\n   23.542    27.085    69.586     8.180     6.296     1.630    16.106     4.468    71.344"
-    },
-    {
-        "query": "What's the Mon.Avg of RTPS",
-        "response": "The value for `Mon.Avg` of RTPS (Renewable Thermal Power Station) is not directly available in the provided data, but I can infer it from other values.\n\nThe `Mon.Avg` value is calculated as 8.180, which corresponds to a line with an average monthly consumption of a certain value. However, this line does not specifically mention RTPS.\n\nInstead, we need to look for a line that mentions the same numerical value (8.180) in its `Mon.Avg` column. It appears to be related to solar/wind power, but since it's not directly mentioned as RTPS, I'll provide the closest match from the data.\n\nThe correct answer is: **8.180**"
-    },
-    {
-        "query": "Cumulative Generation Report From 01/03/2025 To 31/03/2025",
-        "response": "I'll provide a summary of the data provided in the Cumulative Generation Report from January 1, 2025 to March 31, 2025.\n\n**Total Generation**\n\n* Total generation for the month: 23.542 GW (average), 69.586 GW (peak)\n* Total generation for the year (up to March): 3,310.351 GW\n\n**Fuel Mix**\n\n* Thermal: 17.11% (solar and wind excluded)\n\t+ Coal: 6.31%\n\t+ Gas: 5.45%\n\t+ Oil: 0.15%\n\t+ Bagasse: 1.29%\n\t+ Biomass: 2.12%\n\t+ Others: 1.79%\n* Non-thermal (solar and wind): 82.89% (up to March)\n\t+ Solar: 20.57%\n\t+ Wind: 43.52%\n\n**State-wise Generation**\n\nThe report provides a detailed breakdown of generation by state, but I'll only highlight the top 5 states:\n\n* Karnataka: 13.632 GW\n* Tamil Nadu: 12.741 GW\n* Andhra Pradesh: 12.601 GW\n* Telangana: 12.746 GW\n* Maharashtra: 13.051 GW\n\n**Month-wise Generation**\n\nThe report provides generation data for each month of the year, but I'll only highlight January and February:\n\n* January: 8.180 GW (average), 6.296 GW (peak)\n* February: 1.630 GW (average), 16.106 GW (peak)\n\n**Year-to-Date Generation**\n\nThe report provides a cumulative generation figure for the year up to March, which is 3,310.351 GW.\n\nPlease note that this summary only highlights the key points from the report and does not cover all the details provided. If you have any specific questions or would like me to elaborate on any of these points, please let me know!"
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd19b294fe09d8707ffbf89ef5a7650ce9e57eb62f98d388ba0f62c55e1b0191
+size 2798
